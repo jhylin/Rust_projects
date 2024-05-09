@@ -1,4 +1,4 @@
-**Old project which is no longer active as on 10/5/24**
+*This is an old project which is no longer active as on 10/5/24*
 
 # Rust_projects
 
